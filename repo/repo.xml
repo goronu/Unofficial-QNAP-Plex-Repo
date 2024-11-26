@@ -1,0 +1,65 @@
+<?xml version=1.0 encoding=utf-8?>
+<plugins>
+  <cachechk>20241126122341</cachechk>
+  <item>
+    <name>Plex Media Server</name>
+    <internalName>Plex Media Server</internalName>
+    <category>Essentials</category>
+    <type>Entertainment</type>
+    <icon80>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon80>
+    <icon100>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon100>
+    <description>Plex organizes all of your personal media so you can easily access and enjoy it. Notice: If you upgrade the QNAP firmware and the app stops working, please reinstall the app.</description>
+    <fwVersion>4.3.0</fwVersion>
+    <version>1.41.2.9200</version>
+    <platform>
+      <platformID>TS-NASX86</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-x86_64.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-NASARM_64</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-aarch64.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31+</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7neon.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31P</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7neon.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31P2</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7neon.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31X</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7neon.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31XU</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7neon.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7hf.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X31U</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-armv7hf.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X28</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-aarch64.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-X32</platformID>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-aarch64.qpkg</location>
+     </platform>
+    <publishedDate>2024/11/13</publishedDate>
+    <maintainer>Plex</maintainer>
+    <forumLink>https://plex.tv</forumLink>
+    <snapshot>https://download.qnap.com/QPKG/img/PlexQNAPScreenshot.png</snapshot>
+    <tutorialLink>https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/#setting-up-and-installing-the-plex-media-server</tutorialLink>
+        <forumLink>https://forums.plex.tv/</forumLink>
+  </item>
+</plugins>
