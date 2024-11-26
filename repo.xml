@@ -12,6 +12,7 @@
 		<description>
 			<![CDATA[ Official Plex Media Server ]]>
 		</description>
+		<fwVersion>4.3.0</fwVersion>
 		<version>1.41.2.9200-c6bbc1b53</version>
 		<platform>
 			<platform>
@@ -41,4 +42,4 @@
 				<![CDATA[ https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/#setting-up-and-installing-the-plex-media-server ]]>
 			</tutorialLink>
 		</item>
-	</plugins>
+</plugins>
