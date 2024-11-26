@@ -16,7 +16,7 @@ then
         echo "The version is the same"
 else
         echo "La version is different"
-        echo "<?xml version="1.0" encoding="utf-8"?>" > $repo_xml
+        echo "<?xml version='1.0' encoding='utf-8'?>" > $repo_xml
         echo "<plugins>" >> $repo_xml
         echo "  <cachechk>$cache</cachechk>" >> $repo_xml
         echo "  <item>" >> $repo_xml
