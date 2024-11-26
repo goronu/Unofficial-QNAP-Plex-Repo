@@ -78,7 +78,7 @@ else
         echo "    <forumLink>https://plex.tv</forumLink>" >> $repo_xml
         echo "    <snapshot>https://download.qnap.com/QPKG/img/PlexQNAPScreenshot.png</snapshot>" >> $repo_xml
         echo "    <tutorialLink>https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/#setting-up-and-installing-the-plex-media-server</tutorialLink>" >> $repo_xml
-        echo "	<forumLink>https://forums.plex.tv/</forumLink>" >> $repo_xml
+        echo "    <forumLink>https://forums.plex.tv/</forumLink>" >> $repo_xml
         echo "  </item>" >> $repo_xml
         echo "</plugins>" >> $repo_xml
         echo $version > $fileversion

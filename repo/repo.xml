@@ -60,6 +60,6 @@
     <forumLink>https://plex.tv</forumLink>
     <snapshot>https://download.qnap.com/QPKG/img/PlexQNAPScreenshot.png</snapshot>
     <tutorialLink>https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/#setting-up-and-installing-the-plex-media-server</tutorialLink>
-        <forumLink>https://forums.plex.tv/</forumLink>
+    <forumLink>https://forums.plex.tv/</forumLink>
   </item>
 </plugins>
