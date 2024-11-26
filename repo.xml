@@ -1,43 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
 <plugins>
-<cachechk>20241126102641</cachechk>
-<item>
-<name>Plex Media Server</name>
-<internalName>PlexMediaServer</internalName>
-<changeLog>https://forums.plex.tv/t/plex-media-server/30447/654</changeLog>
-<category>Plex</category>
-<type>Entertainment</type>
-<icon80>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon80>
-<icon100>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon100>
-<description>
-<![CDATA[ Official Plex Media Server ]]>
-</description>
-<version>1.41.2.9200-c6bbc1b53</version>
-<platform>
-<platform>
-<platformID>TS-NASARM</platformID>
-<location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-aarch64.qpkg</location>
-</platform>
-<platform>
-<platformID>TS-NASX86</platformID>
-<location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-x86_64.qpkg</location>
-</platform>
-<publishedDate>2024/11/13</publishedDate>
-<maintainer>
-<![CDATA[ Goronu ]]>
-</maintainer>
-<developer>
-<![CDATA[ Goronu ]]>
-</developer>
-<forumLink>
-<![CDATA[ https://github.com/maximedurr ]]>
-</forumLink>
-<language>
-<![CDATA[ English ]]>
-</language>
-<snapshot/>
-<bannerImg/>
-<tutorialLink>
-<![CDATA[ https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/#setting-up-and-installing-the-plex-media-server ]]>
-</tutorialLink>
-</item>
-</plugins>
+	<cachechk>20241126102641</cachechk>
+	<item>
+		<name>Plex Media Server</name>
+		<internalName>PlexMediaServer</internalName>
+		<changeLog>https://forums.plex.tv/t/plex-media-server/30447/654</changeLog>
+		<category>Plex</category>
+		<type>Entertainment</type>
+		<icon80>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon80>
+		<icon100>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon100>
+		<description>
+			<![CDATA[ Official Plex Media Server ]]>
+		</description>
+		<version>1.41.2.9200-c6bbc1b53</version>
+		<platform>
+			<platform>
+				<platformID>TS-NASARM</platformID>
+				<location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-aarch64.qpkg</location>
+			</platform>
+			<platform>
+				<platformID>TS-NASX86</platformID>
+				<location>https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/qnap/PlexMediaServer-1.41.2.9200-c6bbc1b53-x86_64.qpkg</location>
+			</platform>
+			<publishedDate>2024/11/13</publishedDate>
+			<maintainer>
+				<![CDATA[ Goronu ]]>
+			</maintainer>
+			<developer>
+				<![CDATA[ Goronu ]]>
+			</developer>
+			<forumLink>
+				<![CDATA[ https://github.com/maximedurr ]]>
+			</forumLink>
+			<language>
+				<![CDATA[ English ]]>
+			</language>
+			<snapshot/>
+			<bannerImg/>
+			<tutorialLink>
+				<![CDATA[ https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/#setting-up-and-installing-the-plex-media-server ]]>
+			</tutorialLink>
+		</item>
+	</plugins>
