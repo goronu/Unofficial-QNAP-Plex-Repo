@@ -84,6 +84,8 @@ else
         echo $version > $fileversion
         cp $repo_xml /var/www/html/repo.xml
 fi
+
+cd /opt/Unofficial-QNAP-Plex-Repo
 git add *
 git commit -m "Test" -a
 git push origin main
