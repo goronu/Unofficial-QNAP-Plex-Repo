@@ -1,5 +1,7 @@
 # Unofficial Plex Media Server Repository for QNAP QTS
 
+Unofficial Plex Media Server Repository for QNAP QTS.
+
 ## Why use my repository ?
 
 The QNAP-maintained version of the Plex Media Server application is outdated, so to get the latest version of Plex Media Server you need to download the .QPKG package from the official Plex website. So I've created this repository to make it easy for anyone to install and update Plex Media Server.
