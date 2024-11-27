@@ -16,8 +16,11 @@ The QNAP-maintained version of the Plex Media Server application is outdated, so
 ## Compatibility
 
 ARMv7 (TS-x31+, TS-x31P, TS-x31P2, TS-x31X & TS-x31XU series)
+
 ARMv7 (TS-x31 & TS-x31U series)
+
 ARMv8 (TS-x28 & TS-x32 series)
+
 Intel/AMD 64-bit (QTS-4.3 & newer)
 
 ## Updating frequency of script
