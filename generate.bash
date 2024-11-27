@@ -83,8 +83,7 @@ else
         echo "  </item>" >> $repo_xml
         echo "</plugins>" >> $repo_xml
         echo $version > $fileversion
-        cp $repo_xml /var/www/html/repo.xml
 	git add *
-	git commit -m "Test" -a
+	git commit -m "Update" -a
 	git push origin main
 fi
