@@ -10,6 +10,7 @@ published=$(date -d @$date -u +'%Y/%m/%d')
 cache=$(date +'%Y%m%d%H%M%S')
 repo_xml="./repo/repo.xml"
 
+cd /opt/Unofficial-QNAP-Plex-Repo
 
 if [[ "$lastversion" == "$version" ]]
 then
@@ -83,9 +84,7 @@ else
         echo "</plugins>" >> $repo_xml
         echo $version > $fileversion
         cp $repo_xml /var/www/html/repo.xml
+	git add *
+	git commit -m "Test" -a
+	git push origin main
 fi
-
-cd /opt/Unofficial-QNAP-Plex-Repo
-git add *
-git commit -m "Test" -a
-git push origin main
