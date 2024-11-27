@@ -84,3 +84,6 @@ else
         echo $version > $fileversion
         cp $repo_xml /var/www/html/repo.xml
 fi
+git add *
+git commit -m "Test" -a
+git push origin main
