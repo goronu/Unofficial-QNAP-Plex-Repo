@@ -39,10 +39,6 @@ else
         echo "      <location>https://downloads.plex.tv/plex-media-server-new/$version/qnap/PlexMediaServer-$version-aarch64.qpkg</location>" >> $repo_xml
         echo "    </platform>" >> $repo_xml
         echo "    <platform>" >> $repo_xml
-        echo "      <platformID>TS-X31+</platformID>" >> $repo_xml
-        echo "      <location>https://downloads.plex.tv/plex-media-server-new/$version/qnap/PlexMediaServer-$version-armv7neon.qpkg</location>" >> $repo_xml
-        echo "    </platform>" >> $repo_xml
-        echo "    <platform>" >> $repo_xml
         echo "      <platformID>TS-X31P</platformID>" >> $repo_xml
         echo "      <location>https://downloads.plex.tv/plex-media-server-new/$version/qnap/PlexMediaServer-$version-armv7neon.qpkg</location>" >> $repo_xml
         echo "    </platform>" >> $repo_xml
