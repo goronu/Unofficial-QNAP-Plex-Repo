@@ -9,7 +9,7 @@ The QNAP-maintained version of the Plex Media Server application is outdated, so
 ## How to install ?
 
 1. Follow [Install 3rd party apps repository guide](https://www.qnap.com/en-us/how-to/faq/article/install-third-party-apps-repository-in-the-app-center)
-2. Use the URL: https://raw.githubusercontent.com/maximedurr/Unofficial-QNAP-Plex-Repo/refs/heads/main/repo/repo.xml
+2. Use the URL: https://www.max-dev.ovh/repo/repo.xml (more updated) or https://raw.githubusercontent.com/maximedurr/Unofficial-QNAP-Plex-Repo/refs/heads/main/repo/repo.xml
 3. Go to Plex repository
 4. Install Plex Media Server
 
