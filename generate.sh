@@ -42,6 +42,7 @@ echo "The version is different, updating..."
     
     platforms=(
         "TS-NASX86 x86_64"
+	"OLD_X86 x86_64"
         "TS-NASARM_64 aarch64"
         "TS-X28 aarch64"
         "TS-X32 aarch64"
